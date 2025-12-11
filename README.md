@@ -84,7 +84,7 @@ L'application sera accessible sur `http://localhost:8080`.
 
 - 💼 [LinkedIn](https://linkedin.com/in/hadjedjys)
 - 🐙 [GitHub](https://github.com/aikenzac)
-- 📄 [Curriculum Vitae](/assets/CV_YZHadjedj.pdf)
+- 📄 [Curriculum Vitae](/public/assets/CV_YZHadjedj.pdf)
 
 ---
 *« La discipline trace le chemin que le progrès emprunte. »*
