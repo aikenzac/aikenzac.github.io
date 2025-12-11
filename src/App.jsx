@@ -130,8 +130,7 @@ function App() {
       <main>
         {/* ABOUT SECTION */}
         <section id="about" className="section container">
-          <div className="glass-card">
-            <div className="section-header">
+          <div className="section-header">
               <span className="section-label">{t.about.label}</span>
               <h2 className="section-title">{t.about.title}</h2>
             </div>
@@ -152,13 +151,11 @@ function App() {
                 {t.about.p3}
               </p>
             </div>
-          </div>
         </section>
 
         {/* PROJECTS SECTION */}
         <section id="projects" className="section container">
-          <div className="glass-card">
-            <div className="section-header">
+          <div className="section-header">
               <span className="section-label">{t.projects.label}</span>
               <h2 className="section-title">{t.projects.title}</h2>
             </div>
@@ -184,7 +181,6 @@ function App() {
                 </article>
               ))}
             </div>
-          </div>
         </section>
 
         {/* CONTACT SECTION */}
