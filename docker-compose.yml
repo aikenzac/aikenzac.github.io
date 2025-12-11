@@ -1,0 +1,7 @@
+services:
+  portfolio:
+    build: .
+    container_name: portfolio-vintage
+    ports:
+      - "8080:80"
+    restart: always
